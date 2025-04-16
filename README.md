@@ -72,4 +72,4 @@ This project is licensed under the [GNU Affero General Public License v3.0 (AGPL
 
 ---
 
-*For more details on installation, usage, and contribution guidelines, please refer to the [Documentation](docs/README.md).*
+*For more details on installation, usage, and contribution guidelines, please refer to the [Documentation](https://github.com/ozturkc/fuzzy-pso-portfolio-optimization/blob/main/Fuzzy_PSO.ipynb).*
